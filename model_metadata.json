@@ -1,0 +1,23 @@
+{
+  "best_model": "NeuralNetwork",
+  "features": [
+    "PT08.S1(CO)",
+    "PT08.S2(NMHC)",
+    "PT08.S3(NOx)",
+    "PT08.S4(NO2)",
+    "PT08.S5(O3)",
+    "T",
+    "RH",
+    "AH"
+  ],
+  "targets": [
+    "CO(GT)",
+    "NOx(GT)",
+    "NO2(GT)",
+    "C6H6(GT)"
+  ],
+  "training_date": "2026-02-06 17:42:25",
+  "model_type": "<class 'sklearn.neural_network._multilayer_perceptron.MLPRegressor'>",
+  "n_features": 8,
+  "n_targets": 4
+}
