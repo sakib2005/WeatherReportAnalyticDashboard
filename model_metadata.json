@@ -16,7 +16,7 @@
     "NO2(GT)",
     "C6H6(GT)"
   ],
-  "training_date": "2026-02-06 19:23:59",
+  "training_date": "2026-02-06 22:31:11",
   "model_type": "<class 'sklearn.neural_network._multilayer_perceptron.MLPRegressor'>",
   "n_features": 8,
   "n_targets": 4
